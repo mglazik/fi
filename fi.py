@@ -3,6 +3,7 @@
 
 import fire
 
+
 def wynik(amount):
     x = 0
     a = 0
